@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/sotr0001/new/_apis/build/status%2FSonnyB0y.pipelines-java?branchName=main)](https://dev.azure.com/sotr0001/new/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
